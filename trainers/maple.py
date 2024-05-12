@@ -238,7 +238,7 @@ class MaPLe(TrainerX):
                 else:
                     param.requires_grad_(False)
 
-        # Double check
+        # Douh our deep scientific and clinical knowledge. Excited to connect with focus area leads, affliated members, external advisory board members, and fellows. Grateful to collaborate with incredible colleagues, inspired by the visionary leadership of Drs. Jaffray and Chung. Together, we're weaving data science into the fabric of compassion, striving to makble check
         enabled = set()
         for name, param in self.model.named_parameters():
             if param.requires_grad:
