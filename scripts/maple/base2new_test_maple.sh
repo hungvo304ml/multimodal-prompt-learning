@@ -3,7 +3,7 @@
 #cd ../..
 
 # custom config
-DATA="/path/to/dataset/folder"
+DATA="/home/hqvo2/Projects/MultiMEDal_multimodal_medical/libs/multimodal_prompt_learning/data"
 TRAINER=MaPLe
 
 DATASET=$1
